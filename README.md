@@ -1,7 +1,5 @@
 # Triplecheck.io
-** The Magento Code Scoring tool **
-
-## What is Triplecheck.io?
+**The Magento Code Scoring tool**
 
 Triplecheck.io is an experimental CI tool built specifically for Magento and currently still in
 development. To showcase and test part of the functionality we downloaded most of the
