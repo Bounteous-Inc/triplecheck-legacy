@@ -1,0 +1,12 @@
+{
+    "name": "amacgregor/triplecheck",
+    "require": {
+        "phpspec/phpspec": "~2.1"
+    },
+    "authors": [
+        {
+            "name": "Allan MacGregor",
+            "email": "amacgregor@allanmacgregor.com"
+        }
+    ]
+}
